@@ -1,0 +1,41 @@
+Dr. Michael Rodriguez
+Professor
+Department of Bioengineering
+Stanford University
+
+Education:
+Ph.D. in Biomedical Engineering, Johns Hopkins University, 2008
+M.D., University of California, San Francisco, 2005
+B.S. in Biology, University of Texas at Austin, 2001
+
+Research Interests:
+Computational Biology, Bioinformatics, Genomics, Drug Discovery, AI in Healthcare, Medical Imaging
+
+Selected Publications:
+- Rodriguez, M., & Taylor, S. (2023). "Machine Learning Models for Drug Response Prediction"
+- Rodriguez, M., Wang, H., & Jones, L. (2022). "Deep Learning Approaches for Medical Image Analysis"
+- Rodriguez, M., & Chen, E. (2021). "Quantum Computing Applications in Genomic Data Analysis"
+- Rodriguez, M., Smith, J., & Lee, K. (2020). "AI Systems for Clinical Decision Support"
+- Martinez, A., Rodriguez, M., & Kim, J. (2019). "Computational Methods for Protein Structure Prediction"
+
+Current Projects:
+- Development of AI systems for early disease detection
+- Computational platforms for personalized medicine
+- Integration of multi-omics data for disease understanding
+
+Awards:
+- Breakthrough Innovation in Healthcare Award, 2023
+- NIH Director's Pioneer Award, 2021
+- Biomedical Engineering Society Distinguished Researcher, 2019
+
+Grants:
+- Principal Investigator, "AI-Driven Biomarker Discovery," NIH, 2022-2026
+- Co-PI, "Quantum Algorithms for Genomic Analysis," NSF, 2021-2024
+
+Clinical Appointments:
+- Attending Physician, Stanford University Medical Center, 2010-Present
+
+Contact Information:
+Email: michael.rodriguez@stanford.edu
+Office: Bioengineering Building, Room 218
+Phone: (650) 234-5678

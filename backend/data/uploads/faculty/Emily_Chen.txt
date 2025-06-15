@@ -1,0 +1,38 @@
+Dr. Emily Chen
+Associate Professor
+Department of Physics
+Stanford University
+
+Education:
+Ph.D. in Quantum Physics, Caltech, 2010
+M.S. in Physics, Princeton University, 2006
+B.S. in Physics, University of Michigan, 2004
+
+Research Interests:
+Quantum Computing, Quantum Information Theory, Quantum Algorithms, Quantum Error Correction, Quantum Cryptography
+
+Selected Publications:
+- Chen, E., & Miller, S. (2023). "Quantum Algorithms for Machine Learning Applications"
+- Chen, E., Zhang, L., & Williams, R. (2022). "Noise-Resilient Quantum Error Correction Codes"
+- Chen, E., & Anderson, P. (2021). "Quantum Advantage in Optimization Problems"
+- Patel, K., Chen, E., & Rodriguez, J. (2020). "Quantum Computing Applications in Cryptography"
+- Chen, E. (2019). "A Survey of Quantum Circuit Optimization Techniques"
+
+Current Projects:
+- Developing hybrid quantum-classical algorithms for data analysis
+- Quantum computing applications in scientific computation
+- Implementing scalable quantum information protocols
+
+Awards:
+- Quantum Computing Innovation Award, 2022
+- NSF CAREER Award, 2019
+- Young Researcher Award, American Physical Society, 2018
+
+Grants:
+- Principal Investigator, "Quantum Computing for Scientific Discovery," NSF, 2021-2025
+- Co-PI, "Quantum-Resistant Cryptographic Protocols," DARPA, 2020-2023
+
+Contact Information:
+Email: emily.chen@stanford.edu
+Office: Physics Building, Room 307
+Phone: (650) 765-4321

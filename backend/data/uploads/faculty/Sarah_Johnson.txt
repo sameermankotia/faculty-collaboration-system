@@ -1,0 +1,42 @@
+Dr. Sarah Johnson
+Professor
+Department of Economics
+Stanford University
+
+Education:
+Ph.D. in Economics, Harvard University, 2006
+M.A. in Economics, University of Chicago, 2002
+B.A. in Economics and Mathematics, Yale University, 2000
+
+Research Interests:
+Computational Economics, Machine Learning in Economic Analysis, Causal Inference, Economic Policy Evaluation, Game Theory
+
+Selected Publications:
+- Johnson, S., & Brown, R. (2023). "Machine Learning Methods for Causal Inference in Economics"
+- Johnson, S., Miller, T., & Wilson, D. (2022). "AI-Enabled Economic Forecasting Models"
+- Johnson, S., & Smith, J. (2021). "Deep Learning Applications in Financial Market Analysis"
+- Johnson, S. (2020). "Computational Approaches to Economic Policy Evaluation"
+- Johnson, S., & Chen, E. (2019). "Quantum Computing for Economic Optimization Problems"
+
+Current Projects:
+- Development of interpretable AI for economic policy analysis
+- Algorithms for economic decision-making under uncertainty
+- Computational methods for market design
+
+Awards:
+- American Economic Association Innovation Award, 2022
+- John Bates Clark Medal, 2020
+- NSF CAREER Award, 2012
+
+Editorial Positions:
+- Associate Editor, Journal of Economic Perspectives, 2018-Present
+- Editorial Board Member, American Economic Review, 2016-Present
+
+Grants:
+- Principal Investigator, "AI for Economic Policy Analysis," NSF, 2021-2025
+- Co-PI, "Computational Approaches to Market Design," Alfred P. Sloan Foundation, 2020-2023
+
+Contact Information:
+Email: sarah.johnson@stanford.edu
+Office: Economics Building, Room 512
+Phone: (650) 345-6789
