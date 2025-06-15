@@ -24,3 +24,5 @@ Thumbs.db
 # Build artifacts
 build/
 dist/
+backend/venv/
+venv/
